@@ -1,5 +1,5 @@
 {
-  "name": "react-native-intent-launcher",
+  "name": "@suxueweibo/react-native-intent-launcher",
   "version": "0.2.1",
   "description": "call native function about intent in react-native android",
   "main": "index.js",
